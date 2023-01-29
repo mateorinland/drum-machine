@@ -3,4 +3,4 @@ My Drum Machine solution for freeCodeCamp's Front End Development Libraries cour
 
 Using HTML, CSS, SCSS, JavaScript, React.js and Bootstrap.
 
-https://codepen.io/mateorinland/full/dyjvgXJ
+View here: https://codepen.io/mateorinland/full/dyjvgXJ
